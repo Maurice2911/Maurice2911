@@ -1,4 +1,5 @@
-<h1>Hi, I'm Maurice, an <a href="https://linkedin.com/in/maaurice311">IT Professional</a>☺</h1>
+<h1>Hi, I'm Maurice, an <a linkedin.com/in/maurice311
+">IT Professional</a>☺</h1>
 
 <h2> Information Technology Projects:</h2>
 
